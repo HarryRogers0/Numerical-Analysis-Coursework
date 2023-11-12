@@ -1,2 +1,2 @@
 # Numerical-Analysis-Coursework
-Using Numerical Analysis to evaluate integrals, prove key mathematical results and use MATLAB to estimate a group of integrals.
+Using Numerical Analysis to evaluate integrals, prove key mathematical results and using MATLAB to estimate a group of integrals.
